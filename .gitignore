@@ -216,3 +216,5 @@ logs/
 # Local linting scripts
 lint*.py
 lint*.sh
+
+last_chat.txt
